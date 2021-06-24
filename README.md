@@ -5,10 +5,10 @@ I'm a self learner and also a reserved person. I like trying new techs, but my m
 
 ---
 
-- I’m currently working as **WSO2 Integrations Developer and Java Developer**
-- I’m currently learning **Node/React** and a bit of Mule Integrations
+- I’m currently working as **Salesforce B2B and Integrations Developer**
+- I’m currently learning **Node/React**
 - You can also find me in:
   [In](https://linkedin.com/in/isaias-silva-91500167)
-- Check out my blog: [isaiasdevlog](https://isaiasdevlog.com)
+- Or check out my blog: [isaiasdevlog](https://isaiasdevlog.com)
 
 ![ssisaias's github stats](https://github-readme-stats.vercel.app/api?username=ssisaias&show_icons=true&hide_border=true)
